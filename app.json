@@ -8,7 +8,7 @@
           	"SUDO_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "94711421243"
+			"value": "923099809963"
 		    },
 		    "BOT_NAME": {
 			"description": "Change the bot Name here",
@@ -18,7 +18,7 @@
 			"BOT_NUMBER": {
 			"description": "Change the Bot Number",
 			"required": true,
-			"value": "94778962038"
+			"value": "923099809063"
 			},
 			"STICKERS_NAME": {
 			"description": "Add the Stickers Name",
@@ -73,7 +73,7 @@
 			"PREMIUM_NUMBER" : {
 			"description": "Add your Number For unlock all Bot Features",
 			"required": true,
-			"value": "94711421243"
+			"value": "923099809063"
 			},
 			"SONGUP_MSG": {
 			"description": "Add Massage For Song Uploading",
@@ -88,7 +88,7 @@
 			"DEPLOYER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "DARK ALPHA"
+			"value": "AMaN siyal"
 			},
 			"LOCATION": {
 			"description": "Add Your Location",
